@@ -1,0 +1,9 @@
+.vscode
+*.pyc
+*\logs\*
+*\models\*
+*.pickle
+
+*checkpoint
+*.data*
+*.index
